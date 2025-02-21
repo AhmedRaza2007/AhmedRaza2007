@@ -14,6 +14,9 @@ Let’s connect and collaborate on exciting web projects! 😊
 ![AhmedRaza2007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=default)
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza2007&layout=compact&theme=default)
+
+---
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedRaza2007&theme=default)
 
