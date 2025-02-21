@@ -9,6 +9,7 @@ Bootstrap
 Responsive Web Design
 Let’s connect and collaborate on exciting web projects! 😊
 
+![AhmedRaza2007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=default)
 
 
 <!--
