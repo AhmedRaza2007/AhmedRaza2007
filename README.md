@@ -13,6 +13,9 @@ Let’s connect and collaborate on exciting web projects! 😊
 
 ![AhmedRaza2007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=default)
 
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedRaza2007&theme=default)
 
 <!--
 **AhmedRaza2007/AhmedRaza2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
