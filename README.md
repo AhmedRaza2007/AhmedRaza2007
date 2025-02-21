@@ -1,39 +1,31 @@
-Hi there! 👋
+# Hi, I'm Ahmed Raza 👋  
 
-
-I'm a passionate Frontend Developer with expertise in HTML, CSS, Tailwind CSS, and Bootstrap. I love crafting beautiful and responsive web designs, ensuring a seamless user experience. I’m always eager to learn new technologies and improve my skills. Check out my repositories to see my latest projects!
-
-🚀 Tech Stack:
-
-HTML5 & CSS3
-Tailwind CSS
-Bootstrap
-Responsive Web Design
-Let’s connect and collaborate on exciting web projects! 😊
-
-![AhmedRaza2007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=default)
-
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza2007&layout=compact&theme=default)
+I'm a **Frontend Developer** passionate about building beautiful and responsive web applications. My expertise includes **HTML, CSS, Tailwind CSS, and Bootstrap**. I focus on crafting intuitive user interfaces and seamless user experiences.  
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedRaza2007&theme=default)
+## 🚀 Skills & Expertise  
+- **Frontend Technologies:** HTML, CSS, Tailwind CSS, Bootstrap  
+- **Responsive Design:** Ensuring mobile-friendly and optimized layouts  
+- **UI/UX Principles:** Creating clean, modern, and user-friendly designs  
+- **Version Control:** Git & GitHub  
 
-<!--
-**AhmedRaza2007/AhmedRaza2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Hi there! 👋
-I'm a passionate Frontend Developer with expertise in HTML, CSS, Tailwind CSS, and Bootstrap. I love crafting beautiful and responsive web designs, ensuring a seamless user experience. I’m always eager to learn new technologies and improve my skills. Check out my repositories to see my latest projects!
+## 📊 GitHub Stats  
 
-🚀 Tech Stack:
+### 📈 My GitHub Activity  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=radical)  
 
-HTML5 & CSS3
-Tailwind CSS
-Bootstrap
-Responsive Web Design
-Let’s connect and collaborate on exciting web projects! 😊
+### 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedRaza2007&theme=radical)  
 
+### 🏆 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza2007&layout=compact&theme=radical)  
 
+---
 
--->
+## 📫 Let's Connect  
+- 📧 [Email](mailto:your.email@example.com)  
+
+*Feel free to reach out for collaborations, freelance opportunities, or just to talk about web development!* 🚀  
