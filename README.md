@@ -28,4 +28,9 @@ I'm a **Frontend Developer** passionate about building beautiful and responsive 
 ## 📫 Let's Connect  
 - 📧 [Email](mailto:your.email@example.com)  
 
+---
+## 💬 Languages  
+- 🏴 English  
+- 🇵🇰 Urdu  
+
 *Feel free to reach out for collaborations, freelance opportunities, or just to talk about web development!* 🚀  
