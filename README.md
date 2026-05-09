@@ -14,25 +14,33 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4YjQ0MXBiMW81bzllbm56OHM1MzV4MmVhOWI2dWI4czJ5b3Q3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
+<!-- ABOUT ME SECTION FIX -->
+
+<br>
+
+<img align="right" width="320" style="margin-left:20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ4YjQ0MXBiMW81bzllbm56OHM1MzV4MmVhOWI2dWI4czJ5b3Q3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
+
 # 👨‍💻 About Me
 
-✨ Passionate **Frontend Developer** focused on crafting modern, responsive, and interactive user experiences.
+✨ Passionate **Frontend Developer** dedicated to building modern, responsive, and visually engaging web experiences.
 
-🎯 I enjoy transforming creative ideas into real-world web applications using clean and scalable code.
+💡 I enjoy transforming creative ideas into clean and interactive user interfaces using modern frontend technologies.
 
-🌱 Currently Learning:
+### 🌱 Currently Learning
 
 * JavaScript
-* Advanced UI/UX
-* Modern Frontend Workflows
+* Advanced UI/UX Design
+* Modern Frontend Development
 
-⚡ What I Do:
+### ⚡ What I Love
 
-* 🎨 Beautiful UI Design
-* 📱 Responsive Web Development
-* ⚡ Fast & Optimized Websites
-* 🔥 Interactive User Experiences
-* 💡 Creative Frontend Projects
+* 🎨 Creative UI Design
+* 📱 Responsive Websites
+* ⚡ Smooth User Experience
+* 🔥 Interactive Web Apps
+* 💡 Frontend Innovation
+
+<br clear="right"/>
 
 ---
 
@@ -86,23 +94,23 @@
 
 ---
 
-# 💬 Languages
+# 🌍 Languages & Communication
 
 <div align="center">
 
-🇵🇰 Urdu • 🇬🇧 English
+<img src="https://img.shields.io/badge/Urdu-Native-success?style=for-the-badge&logo=googletranslate&logoColor=white" />
+
+<img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
 
 </div>
 
 ---
 
-# ✨ Developer Quote
+# ✨ Developer Mindset
 
 <div align="center">
 
-> ### “Code. Create. Innovate. Repeat.”
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+### 🚀 “Design with creativity. Build with passion. Code with purpose.”
 
 </div>
 
