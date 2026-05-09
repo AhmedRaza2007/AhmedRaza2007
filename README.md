@@ -77,24 +77,24 @@
 <div align="center">
 
 <a href="https://github.com/AhmedRaza2007">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+<a href="mailto:a.razakz2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C9FF"/>
 </a>
 
 </div>
 
 ---
 
-# 🌍 Languages
+# 🌍 Languages & Communication
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Urdu-Native-0F172A?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Urdu-Native-success?style=for-the-badge&logo=googletranslate&logoColor=white" />
 
-<img src="https://img.shields.io/badge/English-Professional-0F172A?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
 
 </div>
 
