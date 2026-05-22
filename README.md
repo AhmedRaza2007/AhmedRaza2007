@@ -50,13 +50,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza2007&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza2007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=AhmedRaza2007&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=AhmedRaza2007&theme=tokyonight&hide_border=true"/>
 
 </div>
 
