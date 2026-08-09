@@ -1,123 +1,89 @@
-<div align="center">
+<!--  PROFILE VISIT COUNTER  -->
+  <tr>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lassiecoder" /></p>
+  </tr>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:0ea5e9&text=Ahmed%20Raza&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI/UX%20Enthusiast%20•%20Creative%20Coder&descAlignY=60" width="100%" />
+<!--  PROFILE HEADER RHS IMAGE  -->
+<picture>
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+</picture>
 
-<br>
+<!--  PROFILE HEADER INTRO (LHS)  -->
+# 👋 Hello World!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Crafting+Modern+Web+Experiences;Frontend+Developer+From+Pakistan;Passionate+About+Clean+UI+Design;Always+Learning+Something+New" />
+I’m a **Frontend Developer** passionate about creating **clean, modern, and responsive web experiences**.
 
-</div>
+💻 With a strong interest in **Frontend Development**, I enjoy transforming ideas into beautiful and interactive user interfaces using modern web technologies.
 
----
+✨ I focus on building websites that are **responsive, user-friendly, visually appealing, and easy to maintain**, with attention to clean and scalable code.
 
-<div align="center">
+🌱 I’m currently improving my skills in **JavaScript** and exploring **advanced frontend development** to become a better developer and build more impactful web experiences.
 
-<img width="420" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](elite-luxury-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-raza-426a0534b )
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmar_khanzada06/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.razakz2007@gmail.com)
 
-</div>
+<!--  EXCITED CHARACTERS  -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
----
+</br>
 
-# 👨‍💻 About Me
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-✨ Passionate **Frontend Developer** dedicated to building clean, modern, and responsive web experiences.
+<!--  EXPERTISE  -->
+### My expertise encompasses:
 
-💡 I love transforming ideas into beautiful user interfaces with smooth user experiences and clean code.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-🚀 Focused on:
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-* Responsive Web Design
-* Interactive UI Development
-* Modern Frontend Technologies
-* Clean & Scalable Code
-* Creative User Experiences
+</br>
 
-🌱 Currently improving my skills in **JavaScript** and advanced frontend development.
+<!--  CAT AND STREAK  -->
+<!--- <p align="center">
+  <img align="left" src="https://github.com/user-attachments/assets/11697f09-377f-4520-ad71-999bd9b16d2f" width="32%" alt="pikachu-hi">
+  <img align="right" src="https://streak-stats.demolab.com/?user=lassiecoder&theme=dark&border_radius=8&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=600&card_height=180&background=30%2C7129B4%2C25463B&stroke=00E6EB" alt="GitHub Streak">
+</p> --->
 
----
+<!--  DIVIDER  -->
+<!--- <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
+</br> --->
+<!--  HI PIKACHU  -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
-# 🛠️ Tech Stack
+<!--  MY GITHUB STAT  -->
+<!-- <p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lassiecoder&theme=tokyonight&hide_border=true" /></p>
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-<div align="center">
+</br>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,git,github,vscode,figma&theme=dark" />
+<!--  CAT  -->
+<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="28%" alt="pikachu-hi">
 
-</div>
+<p align="right"><b>A joke a day keeps the bugs away 🐛</b></p>
+<p align="right"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500" /></p>
+<!--  DIVIDER  -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
----
+#### Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
-# 📊 GitHub Analytics
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](elite-luxury-portfolio.vercel.app)
+[![Newsletter](https://img.shields.io/badge/-Newsletter-25463b?style=for-the-badge&logo=inbox&logoColor=white)](https://www.linkedin.com/in/ahmed-raza-426a0534b)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lassiecoder)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmar_khanzada06/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.razakz2007@gmail.com)
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedRaza2007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<br><br>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=AhmedRaza2007&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedRaza2007&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/AhmedRaza2007">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:a.razakz2007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C9FF"/>
-</a>
-
-</div>
-
----
-
-# 🌍 Languages & Communication
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Urdu-Native-success?style=for-the-badge&logo=googletranslate&logoColor=white" />
-
-<img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ “Turning ideas into interactive digital experiences.”
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AhmedRaza2007&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Thanks for Visiting My Profile
-
-⭐ Feel free to explore my repositories and connect with me.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:1e293b,100:0f172a"/>
