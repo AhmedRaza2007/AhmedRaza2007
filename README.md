@@ -19,11 +19,11 @@ I’m a **Frontend Developer** passionate about creating **clean, modern, and re
 
 🌱 I’m currently improving my skills in **JavaScript** and exploring **advanced frontend development** to become a better developer and build more impactful web experiences.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](elite-luxury-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://elite-luxury-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-raza-426a0534b )
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmar_khanzada06/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.razakz2007@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.razakz2007@gmail.com)
 
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
@@ -81,9 +81,9 @@ I’m a **Frontend Developer** passionate about creating **clean, modern, and re
 
 #### Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](elite-luxury-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://elite-luxury-portfolio.vercel.app/)
 [![Newsletter](https://img.shields.io/badge/-Newsletter-25463b?style=for-the-badge&logo=inbox&logoColor=white)](https://www.linkedin.com/in/ahmed-raza-426a0534b)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lassiecoder)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmar_khanzada06/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.razakz2007@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.razakz2007@gmail.com)
 
