@@ -1,7 +1,10 @@
 <!--  PROFILE VISIT COUNTER  -->
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lassiecoder" /></p>
-  </tr>
+<tr>
+  <p align="top">
+    <img src="https://komarev.com/ghpvc/?username=AhmedRaza2007&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge"
+         alt="AhmedRaza2007" />
+  </p>
+</tr>
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
@@ -63,10 +66,12 @@ I’m a **Frontend Developer** passionate about creating **clean, modern, and re
 <!--  HI PIKACHU  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
-<!--  MY GITHUB STAT  -->
-<!-- <p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p> -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lassiecoder&theme=tokyonight&hide_border=true" /></p>
-<!--  DIVIDER  -->
+<!-- GITHUB STREAK -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRaza2007&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- DIVIDER -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
